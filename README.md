@@ -48,6 +48,12 @@
   
 </div>
 
+---
+
+### :bar_chart: My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafasanzvi&theme=dracula)](https://git.io/streak-stats)
+
 <!--CONTACT-->
 
 #### Shall we talk?☕️
