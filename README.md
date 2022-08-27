@@ -15,10 +15,26 @@
 
 ### You are welcome to my GitHub!!! :octocat:
 
-
-
+<!--TOOLS-->
+<div id="tools" align="left">
+  
+  <h3>:computer: Languajes and Tools</h3>
+  
+  <p>Programming Languajes</p>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  
+  <p>FrontEnd Development</p>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  
+</div>
 
 <!--CONTACT-->
+
 #### Shall we talk?☕️
 
 <a href="https://www.linkedin.com/in/rafael-manuel-sánchez-villanueva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rafael Manuel Sánchez Villanueva" height="20" width="30" />www.linkedin.com/in/rafael-manuel-sánchez-villanueva</a>
