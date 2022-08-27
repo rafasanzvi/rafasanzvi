@@ -1,7 +1,13 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" />
-<h1 align="center">Hi, I am rafasanzvi :alien:</h1>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" />
+  <h1 align="center">Hi, I am rafasanzvi :alien:</h1>
 </div>
+
+<h3 align="center">
+  A passionate web fullstack developer from Jerez. This is the place where i experiment, learn and work with code. I hope you enjoy the trip :rocket:
+</h3>
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rafael-manuel-sánchez-villanueva)
 
 ---
 
