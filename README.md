@@ -1,11 +1,11 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" />
-<h1 align="center">Hi, I am rafasanzvi :alien:, and you are welcome to my GitHub!!! :octocat:</h1>
+<h1 align="center">Hi, I am rafasanzvi :alien:</h1>
 </div>
 
+---
 
-
-### Hi there 👋
+### You are welcome to my GitHub!!! :octocat:
 
 <!--
 **rafasanzvi/rafasanzvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
