@@ -1,8 +1,9 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" />
+<h1 align="center">Hi, I am <strong>rafasanzvi</strong> </h1>
 </div>
 
-
+:octocat:
 
 ### Hi there 👋
 
