@@ -21,7 +21,7 @@
 <!--CONTACT-->
 #### Shall we talk?☕️
 
-<a href="www.linkedin.com/in/rafael-manuel-sánchez-villanueva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rafael Manuel Sánchez Villanueva" height="20" width="30" />www.linkedin.com/in/rafael-manuel-sánchez-villanueva</a>
+<a href="https://www.linkedin.com/in/rafael-manuel-sánchez-villanueva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rafael Manuel Sánchez Villanueva" height="20" width="30" />www.linkedin.com/in/rafael-manuel-sánchez-villanueva</a>
 
 <a href="mailto:rafasv41@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Rafael Manuel Sánchez Villanueva" height="20" width="30" />rafasv41@gmail.com</a>
 
