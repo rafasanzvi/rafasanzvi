@@ -26,23 +26,23 @@
   
   <p>Programming Languajes</p>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40"/><a/>&nbsp;
   
   <p>FrontEnd Development</p>
   
   <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/><a/>&nbsp;
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/><a/>&nbsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/><a/>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/><a/>&nbsp;
   <a href="https://es.reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/><a/>&nbsp;
   
   <p>BackEnd Development</p>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="nodejs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40"           height="40"/>&nbsp;
+   <a href="https://nodejs.org/es/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="nodejs" width="40" height="40"/><a/>&nbsp;
+  <a href="http://expressjs.com/es/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/><a/>&nbsp;
   
   <p>Database</p>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=gs_emea_spain_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624563&adgroup=115749706983&gclid=CjwKCAjwpKyYBhB7EiwAU2Hn2TOBmAB7LQ-_TusEJpCWCDavVwjixR-MZ6sNd7chTgHydjoOGkIydxoCklYQAvD_BwE" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/><a/>&nbsp;
    
   <p>Others</p>
   
