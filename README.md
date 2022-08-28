@@ -56,6 +56,8 @@
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=rafasanzvi&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafasanzvi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--CONTACT-->
 
 #### Shall we talk?☕️
