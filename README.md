@@ -54,6 +54,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafasanzvi&theme=dracula)](https://git.io/streak-stats)
 
+![GitHub](https://github-readme-stats.vercel.app/api?username=rafasanzvi&show_icons=true&theme=radical)
+
 <!--CONTACT-->
 
 #### Shall we talk?☕️
