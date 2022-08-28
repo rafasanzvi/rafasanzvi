@@ -66,6 +66,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafasanzvi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div/>
+  
+#### Some of my projects:
+
+| Sponge Bob Game  | Trip and Trip  | Policroma  |
+|---|---|---|
+| <a href="https://rafasanzvi.github.io/SpongeBobGame/" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://trip-and-trip.herokuapp.com/plants" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://policroma.netlify.app/" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
+  
 
 <!--CONTACT-->
 
