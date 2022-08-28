@@ -1,6 +1,6 @@
 <!--HEADER-->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="350" />
   <h1 align="center">Hi, I am rafasanzvi :alien:</h1>
 </div>
 
@@ -12,6 +12,10 @@
 <!--[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rafael-manuel-sánchez-villanueva)-->
 
 ---
+
+<div id="javascriptGif" align="center">
+<img src="https://raw.githubusercontent.com/hebertdev/hebertdev1/master/javascript.gif" width="800"/>
+<div/>
 
 ### You are welcome to my GitHub!!! :octocat:
 
@@ -50,6 +54,8 @@
 
 ---
 
+<div id="stats" align="left">
+
 ### :bar_chart: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafasanzvi&theme=dracula)](https://git.io/streak-stats)
@@ -57,6 +63,8 @@
 ![GitHub](https://github-readme-stats.vercel.app/api?username=rafasanzvi&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafasanzvi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div/>
 
 <!--CONTACT-->
 
