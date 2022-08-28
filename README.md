@@ -71,7 +71,7 @@
 
 | Sponge Bob Game  | Trip and Trip  | Policroma  |
 |---|---|---|
-| <a href="https://rafasanzvi.github.io/SpongeBobGame/" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://trip-and-trip.herokuapp.com/plants" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://policroma.netlify.app/" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
+| <a href="https://rafasanzvi.github.io/SpongeBobGame/" target="_blank"> <img src="https://i.postimg.cc/pXv1StzD/Bob-Sponge-home.jpg" width="350" height="210"/></a> |  <a href="https://trip-and-trip.herokuapp.com/plants" target="_blank"> <img src="https://i.postimg.cc/cJfn2PQn/Portada-Trip-and-trip.jpg" width="350" height="210"/></a> | <a href="https://policroma.netlify.app/" target="_blank"> <img src="https://i.postimg.cc/tgrYKys7/Policroma-portada.jpg" width="350" height="210"/></a>  |
   
 
 <!--CONTACT-->
