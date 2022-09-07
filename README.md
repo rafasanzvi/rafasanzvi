@@ -65,19 +65,19 @@
 
 Here the links to the relevant repositories: 
     
-**Bob Sponge Game**
+:ocean:**Bob Sponge Game**:ocean:
     
 https://github.com/rafasanzvi/SpongeBobGame
     
-**Trip and Trip**
+:mushroom:**Trip and Trip**:mushroom:
     
 https://github.com/rafasanzvi/Trip-and-trip
     
-**Policroma** 
+:shirt:**Policroma**:shirt: 
     
-- Client: https://github.com/rafasanzvi/color-shirt-client   
+ Client: https://github.com/rafasanzvi/color-shirt-client   
     
-- Server: https://github.com/rafasanzvi/color-shirt-server    
+ Server: https://github.com/rafasanzvi/color-shirt-server    
     
   
 ---
