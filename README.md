@@ -65,15 +65,15 @@
 
 Here the links to the relevant repositories: 
     
-Bob Sponge Game
+**Bob Sponge Game**
     
 https://github.com/rafasanzvi/SpongeBobGame
     
-Trip and Trip
+**Trip and Trip**
     
 https://github.com/rafasanzvi/Trip-and-trip
     
-Policroma: 
+**Policroma** 
     
 Client: https://github.com/rafasanzvi/color-shirt-client   
     
