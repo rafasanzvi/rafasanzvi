@@ -75,9 +75,9 @@ https://github.com/rafasanzvi/Trip-and-trip
     
 **Policroma** 
     
--Client: https://github.com/rafasanzvi/color-shirt-client   
+- Client: https://github.com/rafasanzvi/color-shirt-client   
     
--Server: https://github.com/rafasanzvi/color-shirt-server    
+- Server: https://github.com/rafasanzvi/color-shirt-server    
     
   
 ---
