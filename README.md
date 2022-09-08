@@ -63,7 +63,7 @@
 |---|---|---|
 | <a href="https://rafasanzvi.github.io/SpongeBobGame/" target="_blank"> <img src="https://i.postimg.cc/pXv1StzD/Bob-Sponge-home.jpg" width="350" height="210"/></a> |  <a href="https://trip-and-trip.herokuapp.com/plants" target="_blank"> <img src="https://i.postimg.cc/cJfn2PQn/Portada-Trip-and-trip.jpg" width="350" height="210"/></a> | <a href="https://policroma.netlify.app/" target="_blank"> <img src="https://i.postimg.cc/tgrYKys7/Policroma-portada.jpg" width="350" height="210"/></a>  |
 
-Here the links to the relevant repositories: 
+Here the links to the relevant repositories where you can check the code: 
     
 :ocean: **Bob Sponge Game** :ocean:
     
