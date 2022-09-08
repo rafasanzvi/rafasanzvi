@@ -57,7 +57,9 @@
 <br>
 
 <!--PROJECTS--> 
-#### :trophy: Some of my projects :trophy:
+### :trophy: Some of my projects :trophy:
+    
+You can take a look if you click the pictures
 
 | Sponge Bob Game  | Trip and Trip  | Policroma  |
 |---|---|---|
