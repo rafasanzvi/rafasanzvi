@@ -28,6 +28,8 @@
   <p>Programming Languajes</p>
   
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40"/><a/>&nbsp;
+    
+   <a href="https://www.java.com/es/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/><a/>&nbsp;
   
   <p>FrontEnd Development</p>
   
