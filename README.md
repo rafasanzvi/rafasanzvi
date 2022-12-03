@@ -56,6 +56,12 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
    <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/><a/>&nbsp;  
   </a>
+    
+    <p>Code editors</p>
+  
+  <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/><a/>&nbsp; 
+    <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/><a/>&nbsp; 
+      <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" title="intellij" alt="intellij" width="40" height="40"/><a/>&nbsp;
 </div>
 
 ---
