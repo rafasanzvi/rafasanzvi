@@ -35,6 +35,7 @@
   <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/><a/>&nbsp;
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/><a/>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/><a/>&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailwind" width="40" height="40"/><a/>&nbsp;
   <a href="https://es.reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/><a/>&nbsp;
   
   <p>BackEnd Development</p>
