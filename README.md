@@ -48,7 +48,7 @@
   <p>Database</p>
   
   <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=gs_emea_spain_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624563&adgroup=115749706983&gclid=CjwKCAjwpKyYBhB7EiwAU2Hn2TOBmAB7LQ-_TusEJpCWCDavVwjixR-MZ6sNd7chTgHydjoOGkIydxoCklYQAvD_BwE" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/><a/>&nbsp;
-    <a href="http://expressjs.com/es/" target="_blank"><img src=" https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/><a/>&nbsp;
+    <a href="#" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/><a/>&nbsp;
    
   <p>Others</p>
     
